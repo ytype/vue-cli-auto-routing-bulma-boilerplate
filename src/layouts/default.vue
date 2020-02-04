@@ -1,6 +1,6 @@
 <template>
   <div>
-    <navbar title="Wordistry"/>
+    <navbar title="vue-cli-auto-routing-bulma-boilerplate"/>
     <router-view/>
 
   </div>

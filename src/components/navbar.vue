@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar m-b-md is-white">
+    <nav class="navbar is-white">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item brand-text" href="../index.html">
@@ -17,19 +17,19 @@
         <div id="navMenu" class="navbar-menu" :class="{ 'is-active': showNav }">
           <div class="navbar-end">
             <a class="navbar-item" href="admin.html">
-              Home
+              vue
             </a>
             <a class="navbar-item" href="admin.html">
-              Orders
+              cli
             </a>
             <a class="navbar-item" href="admin.html">
-              Payments
+              auto
             </a>
             <a class="navbar-item" href="admin.html">
-              Exceptions
+              routing
             </a>
             <a class="navbar-item" href="admin.html">
-              Reports
+              boilerplate
             </a>
           </div>
 
@@ -51,14 +51,6 @@ export default {
 </script>
 
 <style scope>
-  nav.navbar {
-    border-top: 4px solid #2b3238;
-    font-family: 'Kaushan Script', cursive;
-    /*
-  margin-bottom: 1rem;
-  */
-  }
-
   .navbar-item.brand-text {
     font-weight: 300;
   }
@@ -66,6 +58,6 @@ export default {
   .navbar-item,
   .navbar-link {
     font-size: 14px;
-    font-weight: 700;
+
   }
 </style>
