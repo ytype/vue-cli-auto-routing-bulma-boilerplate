@@ -4,7 +4,7 @@
 
 ![preview](preview.png)
 
-ºä cli¿¡ css framework bulma¿Í plugin auto routingÀ» Ãß°¡ÇÑ boilerplateÀÔ´Ï´Ù.
+ë·° cliì— css framework bulmaì™€ plugin auto routingì„ ì¶”ê°€í•œ boilerplateì…ë‹ˆë‹¤.
 
 ## Installation
 
