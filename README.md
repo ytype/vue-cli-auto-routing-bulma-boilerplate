@@ -1,4 +1,4 @@
-# vue-cli-auto-routing-bulma-boilerplate
+# vue cli auto routing bulma boilerplate
 
 > vue cli + bulma + auto routing
 
