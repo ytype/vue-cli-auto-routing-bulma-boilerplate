@@ -24,4 +24,4 @@ npm run serve
 
 ## wiki
 
-[wiki]() 
+[wiki](https://ytype.github.io/personal-wiki/project/vue%20cli%20auto%20routing%20bulma%20boilerplate/)
